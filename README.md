@@ -24,15 +24,14 @@ This repository contains a decentralized voting application built with Flutter a
 ✔️ User Guidene\
 ✔️ Voting Dashboard
 
-
-## Getting Started....
+<h2> Getting Started...</h2>.
 - The app is completely built on `flutter` framework of `dart` and that's why we need `flutter sdk` and much more do your flutter setup by going to the folloewing link
 - https://docs.flutter.dev/get-started/install/windows
 -  , after the successful of setup installation, clone the repository into your local system using below command:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/MugheesMb/Pink-Girl.git
+gh repo clone matifpervaizofficial/Tranparent-Voting-Mobile-Application
 
 # Go into the repository
 $ cd Pink-Girl
@@ -50,7 +49,7 @@ $ flutter run
 
 <h3 align="center"> # Well As our app uses Etherium Blockchain for deployment of contracts and use firebase as backend as a service for storing auth data of users. So, to run the project we need to connect firebase within our app So , for that goto firebase website https://firebase.google.com/  and make account and setup your firebase account and connect it with the app. </h3>
 
-<h2>Usage of Infura API in the Project</h2> 
+<h3>Usage of Infura API in the Project</h3> 
 
 The voting app project leverages the Infura API to interact with the blockchain network and access necessary blockchain functionalities. Infura provides a convenient and reliable way to connect to various blockchain networks without the need for running and maintaining your own blockchain node.
 
@@ -74,6 +73,16 @@ By utilizing the Infura API, the voting app can seamlessly interact with the blo
 
 For further information and detailed API documentation, refer to the Infura documentation: [Infura Documentation](https://infura.io/docs).  #### and if you are having any trouble in ruuning this app just email us and we'll help you ASAP..!
 
+<h3>About Remix IDE</h3>
+Remix IDE is a powerful web-based Integrated Development Environment (IDE) specifically designed for developing and testing smart contracts on the Ethereum blockchain. It provides a user-friendly interface and a comprehensive set of features to facilitate the development, debugging, and deployment of Ethereum-based decentralized applications (dApps)
 
 
+ #### and if you are having any trouble in ruuning this app just email us and we'll help you ASAP..!
+
+```
+# Matifpervaizofficial@gmail.com
+```
+
+
+<h2>Output</h2>
 ![WhatsApp Image 2023-07-16 at 1 14 06 PM](https://github.com/matifpervaizofficial/Tranparent-Voting-Mobile-Application/assets/91389997/6413ab59-b7a3-4a40-93bc-b8165b03d006)
