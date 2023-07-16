@@ -34,7 +34,7 @@ This repository contains a decentralized voting application built with Flutter a
 gh repo clone matifpervaizofficial/Tranparent-Voting-Mobile-Application
 
 # Go into the repository
-$ cd Pink-Girl
+$ cd  Tranparent-Voting-Mobile-Application
 
 # Open project in VS code
 $ code .
