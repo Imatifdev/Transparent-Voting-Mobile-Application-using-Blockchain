@@ -85,4 +85,5 @@ Remix IDE is a powerful web-based Integrated Development Environment (IDE) speci
 
 
 <h2>Output</h2>
+
 ![WhatsApp Image 2023-07-16 at 1 14 06 PM](https://github.com/matifpervaizofficial/Tranparent-Voting-Mobile-Application/assets/91389997/6413ab59-b7a3-4a40-93bc-b8165b03d006)
